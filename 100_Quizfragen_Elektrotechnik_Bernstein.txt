@@ -1,0 +1,745 @@
+100 Multiple-Choice-Quizfragen zur Elektrotechnik
+Grundlage: Herbert Bernstein, Formelsammlung Elektrotechnik, Elektronik, Messtechnik, analoge und digitale Elektronik, 2. Auflage (2019).
+Eigenständig formulierte Übungsfragen, thematisch nach den 18 Buchkapiteln gegliedert.
+Pro Frage ist genau eine Antwort richtig. Lösungen befinden sich am Ende.
+========================================================================
+
+KAPITEL 1: Mathematische Grundlagen
+------------------------------------------------------------
+001. Welches Zahlensystem verwendet ausschließlich die Ziffern 0 und 1?
+     A) Hexadezimalsystem
+     B) Oktalsystem
+     C) Dezimalsystem
+     D) Dualsystem
+
+002. Welchen Dezimalwert hat 11010₂?
+     A) 26
+     B) 30
+     C) 28
+     D) 24
+
+003. Welcher Hexadezimalziffer entspricht der Dezimalwert 15?
+     A) F
+     B) E
+     C) D
+     D) A
+
+004. Was bedeutet das SI-Präfix Milli?
+     A) 10⁻²
+     B) 10³
+     C) 10⁻³
+     D) 10⁻⁶
+
+005. Was ist der Betrag der komplexen Zahl 3 + j4?
+     A) 1
+     B) 12
+     C) 7
+     D) 5
+
+KAPITEL 2: Allgemeine Elektrotechnik
+------------------------------------------------------------
+006. Wie lautet das Ohmsche Gesetz für die Spannung?
+     A) U=I/R
+     B) U=R/I
+     C) U=R·I
+     D) U=R+I
+
+007. Welche Einheit hat elektrische Ladung?
+     A) Watt
+     B) Ampere
+     C) Coulomb
+     D) Volt
+
+008. Wie berechnet sich die elektrische Leistung im Gleichstromkreis?
+     A) P=U·I
+     B) P=U+I
+     C) P=U/I
+     D) P=R/I
+
+009. Welche Aussage beschreibt die Knotenregel?
+     A) Summe aller Widerstände ist null
+     B) Summe zufließender Ströme gleich Summe abfließender Ströme
+     C) Spannung ist überall gleich
+     D) Leistung ist immer konstant
+
+010. Was gilt für den Gesamtwiderstand einer Reihenschaltung?
+     A) Rges=1/(R1+R2)
+     B) Rges=R1·R2
+     C) Rges=R1+R2+…
+     D) Rges=R1/R2
+
+011. Was bedeutet der Wirkungsgrad η?
+     A) Arbeit geteilt durch Widerstand
+     B) Nutzleistung geteilt durch zugeführte Leistung
+     C) Verlustleistung geteilt durch Nutzleistung
+     D) Spannung geteilt durch Strom
+
+KAPITEL 3: Gleichstromkreis
+------------------------------------------------------------
+012. Welcher Strom fließt durch 6 Ω bei 12 V?
+     A) 72 A
+     B) 0,5 A
+     C) 2 A
+     D) 6 A
+
+013. Wie groß ist der Ersatzwiderstand zweier parallel geschalteter 10-Ω-Widerstände?
+     A) 5 Ω
+     B) 100 Ω
+     C) 10 Ω
+     D) 20 Ω
+
+014. Wie groß ist die Teilspannung über 2 kΩ bei 6 V an einer Reihenschaltung aus 2 kΩ und 4 kΩ?
+     A) 6 V
+     B) 4 V
+     C) 3 V
+     D) 2 V
+
+015. Wozu dient ein Shunt bei der Strommessung?
+     A) Signal integrieren
+     B) Frequenz erhöhen
+     C) Spannung gleichrichten
+     D) Messbereich durch Parallelzweig erweitern
+
+016. Wann ist eine Wheatstone-Brücke abgeglichen?
+     A) Wenn die Brückendiagonalspannung null ist
+     B) Wenn alle Widerstände null sind
+     C) Wenn der Gesamtstrom null ist
+     D) Wenn die Versorgungsspannung verdoppelt wird
+
+KAPITEL 4: Wechselspannung und Wechselstrom
+------------------------------------------------------------
+017. Welcher Effektivwert gehört zu einer sinusförmigen Spannung mit 325 V Scheitelwert (gerundet)?
+     A) 230 V
+     B) 325 V
+     C) 460 V
+     D) 163 V
+
+018. Wie hängen Kreisfrequenz ω und Frequenz f zusammen?
+     A) ω=f/(2π)
+     B) ω=2f/π
+     C) ω=π/f
+     D) ω=2πf
+
+019. Welche Leistung wird in Watt angegeben?
+     A) Blindwiderstand
+     B) Scheinleistung
+     C) Wirkleistung
+     D) Blindleistung
+
+020. Was ist der Leistungsfaktor bei sinusförmigen Größen?
+     A) tan φ
+     B) cos φ
+     C) sin φ
+     D) 1/cos φ
+
+021. Welche Zerlegung beschreibt periodische Signale als Summe harmonischer Schwingungen?
+     A) Laplace-Transformation allein
+     B) Dreieck-Stern-Umwandlung
+     C) Fourier-Analyse
+     D) Knotenpotentialverfahren
+
+KAPITEL 5: Elektrisches Feld und Kondensator
+------------------------------------------------------------
+022. Wie lautet die Ladung eines idealen Kondensators?
+     A) Q=C·U
+     B) Q=C/U
+     C) Q=U/C
+     D) Q=C·U²
+
+023. Wie addieren sich ideale parallel geschaltete Kapazitäten?
+     A) Cges=C1+C2
+     B) Cges=C1·C2
+     C) Cges=1/(C1+C2)
+     D) Cges=C1/C2
+
+024. Wie groß ist die Energie eines Kondensators?
+     A) W=½·C·U²
+     B) W=C·U
+     C) W=U/R
+     D) W=½·L·I²
+
+025. Welche Zeitkonstante hat ein RC-Glied?
+     A) τ=C/R
+     B) τ=R·C
+     C) τ=R/C
+     D) τ=1/(R·C)
+
+026. Was passiert mit dem kapazitiven Blindwiderstand bei steigender Frequenz?
+     A) Er wird zum Wirkwiderstand
+     B) Er sinkt
+     C) Er steigt
+     D) Er bleibt immer konstant
+
+027. Welche Einheit hat die Kapazität?
+     A) Tesla
+     B) Henry
+     C) Ohm
+     D) Farad
+
+KAPITEL 6: Magnetisches Feld und Induktion
+------------------------------------------------------------
+028. Welche Einheit besitzt die magnetische Flussdichte B?
+     A) Henry
+     B) Tesla
+     C) Weber
+     D) Ampere
+
+029. Welche Einheit hat der magnetische Fluss Φ?
+     A) Weber
+     B) Tesla
+     C) Ohm
+     D) Volt
+
+030. Wie lautet die Energie einer idealen Spule?
+     A) W=½·L·I²
+     B) W=½·C·U²
+     C) W=L/I
+     D) W=R·I
+
+031. Welche Beziehung gilt für die induzierte Spannung einer idealen Spule?
+     A) u=L·i
+     B) u=L·di/dt
+     C) u=i/L
+     D) u=L·dt/di
+
+032. Was gilt für den induktiven Blindwiderstand?
+     A) XL=2πfL
+     B) XL=2πL/f
+     C) XL=1/(2πfL)
+     D) XL=L/(2πf)
+
+033. Welche ideale Transformatorbeziehung gilt für Spannungen und Windungszahlen?
+     A) U1+U2=N1+N2
+     B) U1·U2=N1/N2
+     C) U1/U2=N2/N1
+     D) U1/U2=N1/N2
+
+KAPITEL 7: Widerstände im Wechselstromkreis
+------------------------------------------------------------
+034. Welche Impedanz hat ein idealer Widerstand?
+     A) Z=1/(jωC)
+     B) Z=jωL
+     C) Z=R
+     D) Z=−R
+
+035. Welche Impedanz hat eine ideale Induktivität?
+     A) Z=1/(jωL)
+     B) Z=R
+     C) Z=jωL
+     D) Z=−jωC
+
+036. Welche Impedanz hat ein idealer Kondensator?
+     A) Z=R
+     B) Z=1/(jωC)
+     C) Z=jωC
+     D) Z=jωL
+
+037. Wann tritt Serienresonanz im idealen RLC-Kreis auf?
+     A) Wenn XL=XC
+     B) Wenn C=L
+     C) Wenn XL=R
+     D) Wenn R=0
+
+038. Welche Einheit hat die Scheinleistung?
+     A) var
+     B) VA
+     C) J
+     D) W
+
+039. Welche Einheit hat die Blindleistung?
+     A) W
+     B) VA
+     C) Wh
+     D) var
+
+KAPITEL 8: Filterschaltungen
+------------------------------------------------------------
+040. Welche Frequenzen lässt ein idealisierter Tiefpass bevorzugt passieren?
+     A) Hohe Frequenzen
+     B) Keine Gleichanteile
+     C) Nur die Resonanzfrequenz
+     D) Niedrige Frequenzen
+
+041. Welche Frequenzen lässt ein Hochpass bevorzugt passieren?
+     A) Alle Frequenzen unverändert
+     B) Nur Gleichspannung
+     C) Hohe Frequenzen
+     D) Niedrige Frequenzen
+
+042. Wie lautet die Grenzfrequenz eines einfachen RC-Tiefpasses?
+     A) fc=1/(2πRC)
+     B) fc=2πRC
+     C) fc=C/(2πR)
+     D) fc=R/(2πC)
+
+043. Welche Funktion erfüllt ein Bandpass?
+     A) Er lässt nur Gleichspannung passieren
+     B) Er invertiert stets die Phase um 180°
+     C) Er lässt einen begrenzten Frequenzbereich passieren
+     D) Er sperrt ausschließlich Gleichspannung
+
+044. Was beschreibt der Reflexionsfaktor auf einer Leitung?
+     A) Verhältnis Strom zu Widerstand
+     B) Verhältnis reflektierter zu einfallender Wellenamplitude
+     C) Verhältnis Leistung zu Zeit
+     D) Verhältnis Frequenz zu Wellenlänge
+
+045. Was bezeichnet der Skineffekt?
+     A) Kapazitätszunahme bei Gleichstrom
+     B) Stromverdrängung zur Leiteroberfläche bei Wechselstrom
+     C) Widerstandslosigkeit bei hohen Frequenzen
+     D) Stromfluss nur im Leiterkern
+
+KAPITEL 9: Dämpfung, Verstärkung und Pegel
+------------------------------------------------------------
+046. Wie viele Dezibel entsprechen einem Leistungsverhältnis von 10:1?
+     A) −10 dB
+     B) 20 dB
+     C) 10 dB
+     D) 3 dB
+
+047. Wie viele Dezibel entsprechen ungefähr einer Verdopplung der Leistung?
+     A) 10 dB
+     B) 20 dB
+     C) 3 dB
+     D) 6 dB
+
+048. Welcher Ausdruck beschreibt den Leistungspegelunterschied?
+     A) 10·(P2−P1)
+     B) 10·log10(P2/P1)
+     C) 20·log10(P2/P1)
+     D) P2/P1 dB
+
+049. Welcher Ausdruck beschreibt ein Spannungsverhältnis in dB bei gleichen Impedanzen?
+     A) U2/U1
+     B) 20·log10(U2/U1)
+     C) 20·(U2−U1)
+     D) 10·log10(U2/U1)
+
+050. Wie werden Dämpfungsmaße mehrerer hintereinandergeschalteter Stufen in dB zusammengefasst?
+     A) Durch Quadrieren
+     B) Durch Kehrwertbildung
+     C) Durch Multiplikation
+     D) Durch Addition
+
+KAPITEL 10: Dioden
+------------------------------------------------------------
+051. In welcher Richtung leitet eine gewöhnliche Diode im Normalbetrieb bevorzugt?
+     A) Nur bei Wechselstrom
+     B) In beiden Richtungen gleich
+     C) Sperrrichtung
+     D) Durchlassrichtung
+
+052. Welche Funktion erfüllt eine Z-Diode typischerweise?
+     A) Induktivitätserhöhung
+     B) Frequenzteilung
+     C) Drehzahlmessung
+     D) Spannungsstabilisierung im Durchbruchbereich
+
+053. Wie viele Dioden enthält eine klassische einphasige Brückengleichrichterschaltung B2U?
+     A) 4
+     B) 2
+     C) 1
+     D) 6
+
+054. Welche Aufgabe erfüllt ein Glättungskondensator hinter einem Gleichrichter?
+     A) Erzeugen eines Magnetfelds
+     B) Verringern der Restwelligkeit
+     C) Erhöhen der Netzfrequenz
+     D) Umwandeln von Gleich- in Wechselstrom
+
+055. Was beschreibt der dynamische Diodenwiderstand?
+     A) Sperrspannung geteilt durch Temperatur
+     B) Kleine Spannungsänderung geteilt durch kleine Stromänderung
+     C) Gesamtspannung geteilt durch Gesamtstrom
+     D) Leistung geteilt durch Frequenz
+
+KAPITEL 11: Bipolare Transistoren
+------------------------------------------------------------
+056. Welcher Zusammenhang gilt beim Bipolartransistor für die Ströme?
+     A) IE=IB·IC
+     B) IE=IB+IC
+     C) IC=IE+IB
+     D) IB=IE+IC
+
+057. Welche Größe ist die Gleichstromverstärkung β eines Bipolartransistors näherungsweise?
+     A) IC/IB
+     B) IB/IC
+     C) IE/IC
+     D) UC/UB
+
+058. Welche Grundschaltung besitzt typischerweise eine Spannungsinversion?
+     A) Kollektorschaltung
+     B) Emitterschaltung
+     C) Basisschaltung
+     D) Darlington-Folger
+
+059. Wozu dient die Arbeitspunkteinstellung?
+     A) Umwandeln eines Widerstands in eine Spule
+     B) Erhöhen der Netzfrequenz
+     C) Ersetzen der Versorgungsspannung
+     D) Festlegen des Gleichstrombetriebszustands
+
+060. Was ist ein Darlington-Transistorpaar?
+     A) Zwei antiparallele Dioden
+     B) Ein RC-Tiefpass
+     C) Ein passiver Transformator
+     D) Zwei gekoppelte Bipolartransistoren zur hohen Stromverstärkung
+
+KAPITEL 12: FET und MOSFET
+------------------------------------------------------------
+061. Welche Größe steuert den idealisierten MOSFET hauptsächlich?
+     A) Basisstrom
+     B) Anodenstrom
+     C) Kollektorstrom
+     D) Gate-Source-Spannung
+
+062. Was zeichnet das MOSFET-Gate im statischen Betrieb näherungsweise aus?
+     A) Sehr niedriger Eingangswiderstand
+     B) Sehr hoher Eingangswiderstand
+     C) Ohmscher Kurzschluss zum Source
+     D) Konstanter hoher Gatestrom
+
+063. Wofür steht die Abkürzung FET?
+     A) Frequency Emission Transformer
+     B) Field Effect Transistor
+     C) Fast Electric Thyristor
+     D) Field Energy Terminal
+
+064. Welcher Anschluss gehört zu einem MOSFET?
+     A) Kathode
+     B) Drain
+     C) Anode
+     D) Kollektor
+
+065. Was bezeichnet ein Dual-Gate-MOSFET?
+     A) MOSFET ohne Source
+     B) Zwei parallel geschaltete Dioden
+     C) MOSFET mit zwei Gate-Anschlüssen
+     D) MOSFET mit zwei Drain-Anschlüssen
+
+KAPITEL 13: Operationsverstärker
+------------------------------------------------------------
+066. Wie verhält sich die Ausgangsspannung eines idealen invertierenden OPV-Verstärkers?
+     A) Ua=−(Rf/Rin)·Ue
+     B) Ua=Ue+Rf
+     C) Ua=(Rf/Rin)·Ue
+     D) Ua=Ue/Rf
+
+067. Welche Verstärkung hat ein idealer nichtinvertierender OPV-Verstärker?
+     A) Rf·Rg
+     B) −Rf/Rg
+     C) 1+Rf/Rg
+     D) Rg−Rf
+
+068. Welche Aufgabe erfüllt ein Komparator?
+     A) Messen mechanischer Drehzahl
+     B) Speichern elektrischer Ladung
+     C) Vergleichen zweier Spannungen
+     D) Erzeugen magnetischer Flüsse
+
+069. Was bewirkt positive Rückkopplung beim Schmitt-Trigger?
+     A) Hysterese mit zwei Schaltschwellen
+     B) Vollständige Unterdrückung der Versorgung
+     C) Reine Integration
+     D) Exakt null Verstärkung
+
+070. Welche ideale Eingangsgröße ist beim OPV näherungsweise null?
+     A) Eingangsstrom
+     B) Versorgungsspannung
+     C) Ausgangsspannung
+     D) Leerlaufverstärkung
+
+071. Was erzeugt ein idealer OPV-Integrator aus konstanter Eingangsspannung?
+     A) Immer eine Sinusschwingung
+     B) Eine konstante Ausgangsspannung
+     C) Eine linear ansteigende oder fallende Ausgangsspannung
+     D) Nur einen einzelnen Impuls
+
+KAPITEL 14: Regelungstechnik
+------------------------------------------------------------
+072. Welche Größe wird in einem geschlossenen Regelkreis zurückgeführt?
+     A) Nur die Versorgungsspannung
+     B) Istwert der Regelgröße
+     C) Nur die Sollwertvorgabe
+     D) Nur der Stellbereich
+
+073. Was bedeutet die Regelabweichung e bei negativer Rückführung?
+     A) Istwert plus Sollwert
+     B) Istwert geteilt durch Sollwert
+     C) Sollwert minus Istwert
+     D) Sollwert mal Istwert
+
+074. Welcher Regleranteil reagiert proportional auf die aktuelle Regelabweichung?
+     A) Totzeitglied
+     B) D-Anteil
+     C) P-Anteil
+     D) I-Anteil
+
+075. Welcher Regleranteil integriert die Regelabweichung über die Zeit?
+     A) I-Anteil
+     B) P-Anteil
+     C) D-Anteil
+     D) Reines Verzögerungsglied
+
+076. Welcher Regleranteil reagiert auf die Änderungsgeschwindigkeit der Regelabweichung?
+     A) I-Anteil
+     B) D-Anteil
+     C) P-Anteil
+     D) Konstante Vorsteuerung
+
+077. Was zeigt ein Bode-Diagramm?
+     A) Nur den Temperaturverlauf
+     B) Nur die mechanische Leistung
+     C) Nur den Gleichstromwiderstand
+     D) Betrags- und Phasengang über der Frequenz
+
+KAPITEL 15: Digitaltechnik
+------------------------------------------------------------
+078. Wie viele Bits umfasst ein Byte üblicherweise?
+     A) 4
+     B) 8
+     C) 16
+     D) 10
+
+079. Welchen Dezimalwert hat die Binärzahl 1011₂?
+     A) 15
+     B) 9
+     C) 13
+     D) 11
+
+080. Wann ist der Ausgang eines UND-Gatters 1?
+     A) Wenn alle Eingänge 1 sind
+     B) Wenn die Eingänge verschieden sind
+     C) Wenn alle Eingänge 0 sind
+     D) Wenn mindestens ein Eingang 1 ist
+
+081. Wann ist der Ausgang eines ODER-Gatters 1?
+     A) Nur wenn alle Eingänge 1 sind
+     B) Wenn mindestens ein Eingang 1 ist
+     C) Nur wenn genau zwei Eingänge 1 sind
+     D) Nur wenn alle Eingänge 0 sind
+
+082. Was ist die Funktion eines Flipflops?
+     A) Filtern einer analogen Frequenz
+     B) Messen einer Induktivität
+     C) Verstärken einer Netzspannung
+     D) Speichern eines binären Zustands
+
+083. Wozu dient ein Karnaugh-Diagramm?
+     A) Messung von Oberwellen
+     B) Bestimmung der Motordrehzahl
+     C) Vereinfachung boolescher Funktionen
+     D) Berechnung von Kapazitätsverlusten
+
+KAPITEL 16: Sensorik
+------------------------------------------------------------
+084. Wie verändert sich der Widerstand eines NTC bei steigender Temperatur?
+     A) Er bleibt immer gleich
+     B) Er wird unendlich
+     C) Er steigt
+     D) Er sinkt
+
+085. Wie verändert sich der Widerstand eines PTC im typischen Kaltleiterbereich bei steigender Temperatur?
+     A) Er bleibt exakt null
+     B) Er sinkt
+     C) Er wird negativ
+     D) Er steigt
+
+086. Was misst ein Dehnungsmessstreifen primär?
+     A) Magnetische Flussdichte
+     B) Mechanische Dehnung
+     C) Elektrische Kapazität direkt
+     D) Lichtfrequenz
+
+087. Welchen physikalischen Effekt nutzt ein Hall-Sensor?
+     A) Piezoelektrische Resonanz
+     B) Hall-Spannung im Magnetfeld
+     C) Photoeffekt
+     D) Seebeck-Effekt
+
+088. Welches Bauelement wandelt Licht in einen elektrischen Fotostrom um?
+     A) Varistor
+     B) Fotodiode
+     C) NTC
+     D) Induktivität
+
+089. Welche Funktion hat ein Optokoppler?
+     A) Messung des Leitungswiderstands
+     B) Netzfrequenzverdopplung
+     C) Mechanische Drehmomentverstärkung
+     D) Galvanisch getrennte Signalübertragung mittels Licht
+
+KAPITEL 17: Messtechnik
+------------------------------------------------------------
+090. Welches Gerät zeigt zeitliche Spannungsverläufe an?
+     A) Ohmmeter
+     B) Wattstundenzähler
+     C) Oszilloskop
+     D) LCR-Brücke ohne Anzeige
+
+091. Wie wird ein ideales Amperemeter in den Messzweig geschaltet?
+     A) Parallel
+     B) Nur über einen Kondensator
+     C) Immer gegen Erde
+     D) In Reihe
+
+092. Wie wird ein ideales Voltmeter am Messobjekt angeschlossen?
+     A) In Reihe
+     B) Nur über einen Shunt
+     C) Parallel
+     D) Nur über eine Spule
+
+093. Welche Eigenschaft sollte ein ideales Voltmeter besitzen?
+     A) Unendlich hohen Innenwiderstand
+     B) Negative Messspannung
+     C) Innenwiderstand null
+     D) Sehr großen Eigenstrom
+
+094. Welche Eigenschaft sollte ein ideales Amperemeter besitzen?
+     A) Sehr große Kapazität
+     B) Unendlich hohe Induktivität
+     C) Unendlich hohen Innenwiderstand
+     D) Innenwiderstand null
+
+KAPITEL 18: Drehstrom und Wechselstrom
+------------------------------------------------------------
+095. Wie hängen Leiter- und Strangspannung bei symmetrischer Sternschaltung zusammen?
+     A) UL=√3·US
+     B) UL=3·US
+     C) UL=US/√3
+     D) UL=US
+
+096. Wie hängen Leiter- und Strangstrom bei symmetrischer Dreieckschaltung zusammen?
+     A) IL=IS
+     B) IL=√3·IS
+     C) IL=IS/√3
+     D) IL=3·IS
+
+097. Wie lautet die Wirkleistung eines symmetrischen Drehstromsystems?
+     A) P=√3·UL·IL·cos φ
+     B) P=UL·IL
+     C) P=UL/(IL·cos φ)
+     D) P=3·UL·IL ohne cos φ
+
+098. Was bezeichnet der Schlupf eines Asynchronmotors?
+     A) Relative Differenz zwischen synchroner Drehzahl und Läuferdrehzahl
+     B) Verhältnis Wirkleistung zu Blindleistung
+     C) Verhältnis Spannung zu Strom
+     D) Absolute Netzfrequenz
+
+099. Welche Größe gibt das Motordrehmoment an?
+     A) Farad
+     B) Watt
+     C) Ampere
+     D) Newtonmeter
+
+100. Wozu dient die Blindleistungskompensation?
+     A) Erzeugen von Gleichspannung
+     B) Umkehren der Phasenfolge
+     C) Erhöhen der Netzfrequenz
+     D) Verringern des Blindleistungsbezugs
+
+========================================================================
+LÖSUNGSSCHLÜSSEL
+========================================================================
+001. D — Dualsystem
+002. A — 26
+003. A — F
+004. C — 10⁻³
+005. D — 5
+006. C — U=R·I
+007. C — Coulomb
+008. A — P=U·I
+009. B — Summe zufließender Ströme gleich Summe abfließender Ströme
+010. C — Rges=R1+R2+…
+011. B — Nutzleistung geteilt durch zugeführte Leistung
+012. C — 2 A
+013. A — 5 Ω
+014. D — 2 V
+015. D — Messbereich durch Parallelzweig erweitern
+016. A — Wenn die Brückendiagonalspannung null ist
+017. A — 230 V
+018. D — ω=2πf
+019. C — Wirkleistung
+020. B — cos φ
+021. C — Fourier-Analyse
+022. A — Q=C·U
+023. A — Cges=C1+C2
+024. A — W=½·C·U²
+025. B — τ=R·C
+026. B — Er sinkt
+027. D — Farad
+028. B — Tesla
+029. A — Weber
+030. A — W=½·L·I²
+031. B — u=L·di/dt
+032. A — XL=2πfL
+033. D — U1/U2=N1/N2
+034. C — Z=R
+035. C — Z=jωL
+036. B — Z=1/(jωC)
+037. A — Wenn XL=XC
+038. B — VA
+039. D — var
+040. D — Niedrige Frequenzen
+041. C — Hohe Frequenzen
+042. A — fc=1/(2πRC)
+043. C — Er lässt einen begrenzten Frequenzbereich passieren
+044. B — Verhältnis reflektierter zu einfallender Wellenamplitude
+045. B — Stromverdrängung zur Leiteroberfläche bei Wechselstrom
+046. C — 10 dB
+047. C — 3 dB
+048. B — 10·log10(P2/P1)
+049. B — 20·log10(U2/U1)
+050. D — Durch Addition
+051. D — Durchlassrichtung
+052. D — Spannungsstabilisierung im Durchbruchbereich
+053. A — 4
+054. B — Verringern der Restwelligkeit
+055. B — Kleine Spannungsänderung geteilt durch kleine Stromänderung
+056. B — IE=IB+IC
+057. A — IC/IB
+058. B — Emitterschaltung
+059. D — Festlegen des Gleichstrombetriebszustands
+060. D — Zwei gekoppelte Bipolartransistoren zur hohen Stromverstärkung
+061. D — Gate-Source-Spannung
+062. B — Sehr hoher Eingangswiderstand
+063. B — Field Effect Transistor
+064. B — Drain
+065. C — MOSFET mit zwei Gate-Anschlüssen
+066. A — Ua=−(Rf/Rin)·Ue
+067. C — 1+Rf/Rg
+068. C — Vergleichen zweier Spannungen
+069. A — Hysterese mit zwei Schaltschwellen
+070. A — Eingangsstrom
+071. C — Eine linear ansteigende oder fallende Ausgangsspannung
+072. B — Istwert der Regelgröße
+073. C — Sollwert minus Istwert
+074. C — P-Anteil
+075. A — I-Anteil
+076. B — D-Anteil
+077. D — Betrags- und Phasengang über der Frequenz
+078. B — 8
+079. D — 11
+080. A — Wenn alle Eingänge 1 sind
+081. B — Wenn mindestens ein Eingang 1 ist
+082. D — Speichern eines binären Zustands
+083. C — Vereinfachung boolescher Funktionen
+084. D — Er sinkt
+085. D — Er steigt
+086. B — Mechanische Dehnung
+087. B — Hall-Spannung im Magnetfeld
+088. B — Fotodiode
+089. D — Galvanisch getrennte Signalübertragung mittels Licht
+090. C — Oszilloskop
+091. D — In Reihe
+092. C — Parallel
+093. A — Unendlich hohen Innenwiderstand
+094. D — Innenwiderstand null
+095. A — UL=√3·US
+096. B — IL=√3·IS
+097. A — P=√3·UL·IL·cos φ
+098. A — Relative Differenz zwischen synchroner Drehzahl und Läuferdrehzahl
+099. D — Newtonmeter
+100. D — Verringern des Blindleistungsbezugs
